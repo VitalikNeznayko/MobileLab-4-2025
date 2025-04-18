@@ -9,10 +9,10 @@ npx expo run:android
 ```
 
 # Скріншоти:
-![1](assets/screenshots/1.png)
-![2](assets/screenshots/2.png)
-![3](assets/screenshots/3.png)
-![4](assets/screenshots/4.png)
-![5](assets/screenshots/5.png)
-![6](assets/screenshots/6.png)
-![7](assets/screenshots/7.png)
+<img src="assets/screenshots/1.png" width="300"/>
+<img src="assets/screenshots/2.png" width="300"/>
+<img src="assets/screenshots/3.png" width="300"/>
+<img src="assets/screenshots/4.png" width="300"/>
+<img src="assets/screenshots/5.png" width="300"/>
+<img src="assets/screenshots/6.png" width="300"/>
+<img src="assets/screenshots/7.png" width="300"/>

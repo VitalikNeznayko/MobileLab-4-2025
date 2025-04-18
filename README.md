@@ -14,5 +14,5 @@ npx expo run:android
 <img src="assets/screenshots/3.png" width="300"/>
 <img src="assets/screenshots/4.png" width="300"/>
 <img src="assets/screenshots/5.png" width="300"/>
-<img src="assets/screenshots/6.png" width="300"/>
-<img src="assets/screenshots/7.png" width="300"/>
+<img src="assets/screenshots/6.png"/>
+<img src="assets/screenshots/7.png"/>

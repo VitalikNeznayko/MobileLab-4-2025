@@ -1,5 +1,5 @@
 {
-  "name": "lab4mobile",
+  "name": "lab4",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,11 +9,17 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~52.0.46",
+    "@react-native-async-storage/async-storage": "^2.1.2",
+    "@react-native-community/checkbox": "^0.5.17",
+    "@react-native-community/datetimepicker": "^8.3.0",
+    "expo": "~52.0.43",
+    "expo-constants": "~17.0.8",
     "expo-status-bar": "~2.0.1",
-    "onesignal-expo-plugin": "^1.1.2",
+    "moment-timezone": "^0.5.48",
+    "onesignal-expo-plugin": "^2.0.3",
     "react": "18.3.1",
     "react-native": "0.76.9",
+    "react-native-modal-datetime-picker": "^18.0.0",
     "react-native-onesignal": "^5.2.9"
   },
   "devDependencies": {

@@ -21,7 +21,7 @@ extensions.configure(com.facebook.react.ReactSettingsExtension) { ex ->
   }
 }
 
-rootProject.name = 'Lab4Mobile'
+rootProject.name = 'lab4'
 
 dependencyResolutionManagement {
   versionCatalogs {

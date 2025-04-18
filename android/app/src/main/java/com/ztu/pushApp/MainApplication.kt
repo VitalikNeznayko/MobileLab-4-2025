@@ -1,4 +1,4 @@
-package com.vtk241.lab4
+package com.ztu.pushApp
 
 import android.app.Application
 import android.content.res.Configuration

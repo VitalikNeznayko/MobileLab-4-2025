@@ -86,9 +86,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace 'com.vtk241.lab4'
+    namespace 'com.ztu.pushApp'
     defaultConfig {
-        applicationId 'com.vtk241.lab4'
+        applicationId 'com.ztu.pushApp'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

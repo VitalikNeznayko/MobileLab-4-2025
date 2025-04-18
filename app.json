@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Lab4Mobile",
-    "slug": "Lab4Mobile",
+    "name": "lab4",
+    "slug": "lab4",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,10 +22,18 @@
         "com.apple.security.application-groups": [
           "group.${ios.bundleIdentifier}.onesignal"
         ]
-      }
+      },
+      "supportsTablet": true
     },
     "android": {
-      "package": "com.vtk241.lab4"
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.ztu.pushApp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
     },
     "plugins": [
       [
@@ -36,7 +44,8 @@
       ]
     ],
     "extra": {
-      "OneSignalAppId": "13396ec7-9133-43d0-b3cd-67d36813054c"
+      "oneSignalAppId": "13396ec7-9133-43d0-b3cd-67d36813054c",
+      "oneSignalApiKey": "os_v2_app_cm4w5r4rgnb5bm6nm7jwqeyfjswz3isefqju364fjvbblw6tdlqpzpleezrjdoafzszk26rferltjbzj3ih5ntd4wfm3j4hzekx7y5q"
     }
   }
 }

@@ -1,4 +1,4 @@
-package com.vtk241.lab4
+package com.ztu.pushApp
 
 import android.os.Build
 import android.os.Bundle

@@ -20,7 +20,7 @@ const TasksList = ({ tasks, onDelete, onToggleFinished }) => {
   }
 
   return (
-    <ScrollView style={styles.wrapper}>
+    <View style={styles.wrapper}>
       <Text style={styles.emptyMessage}>Your To-Do List</Text>
       <FlatList
         data={tasks}
@@ -28,7 +28,7 @@ const TasksList = ({ tasks, onDelete, onToggleFinished }) => {
         renderItem={renderTask}
         showsVerticalScrollIndicator={false}
       />
-    </ScrollView>
+    </View>
   );
 };
 

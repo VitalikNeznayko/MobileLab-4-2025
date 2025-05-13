@@ -6,7 +6,7 @@ import { LogLevel, OneSignal } from "react-native-onesignal";
 import Constants from "expo-constants";
 
 export default function App() {
-  const EXTERNAL_ID = "svm-24-1";
+  const EXTERNAL_ID = "nvk-24-1";
   const APP_ID = Constants.expoConfig.extra.oneSignalAppId;
 
   useEffect(() => {
